@@ -14,8 +14,7 @@
 
 
 <br/>
-<br/>
-<br/>
+
 
 ### 🌱 study member
 
@@ -23,3 +22,5 @@
 | :------: |  :------: | :------: | :------: |
 |[<img src="https://avatars.githubusercontent.com/blunyl" height=180 width=180> <br/> @blunyl](https://github.com/blunyl) | [<img src="https://avatars.githubusercontent.com/chaerin-kim" height=180 width=180> <br/> @chaerin-kim](https://github.com/chaerin-kim/chaerin-kim) | [<img src="https://avatars.githubusercontent.com/59Youn" height=180 width=180> <br/> @59Youn](https://github.com/59Youn) | [<img src="https://avatars.githubusercontent.com/shining-jung" height=180 width=180> <br/> @shining-jung](https://github.com/shining-jung) |
 
+
+<br/>
